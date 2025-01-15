@@ -42,8 +42,8 @@ To view the project locally, you can either open the project files in your code 
 - [ ] In `assignment.js`:
     - [x] Create an immutable variable that will store a reference to the paragraph tag with the id of `response`.
     - [x] Create a mutable variable called `age`, but do not assign it a value.
-    - [ ] Write your conditional logic inside the `checkAgeAndRespond` function.
-    - [ ] Read and try to understand the code that exists already. Write notes/questions and bring them to class.
+    - [x] Write your conditional logic inside the `checkAgeAndRespond` function.
+    - [x] Read and try to understand the code that exists already. Write notes/questions and bring them to class.
 
 
 ### Tips
